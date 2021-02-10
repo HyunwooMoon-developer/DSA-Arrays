@@ -74,3 +74,16 @@ class Array {
 }
 
 Array.SIZE_RATIO = 3;
+
+function main(){
+    Array.SIZE_RATIO = 3;
+
+    //create an instance of the Array class
+    let arr = new Array();
+
+    arr.push(3);
+
+    console.log(arr);
+}
+
+main();
