@@ -1,3 +1,4 @@
+/* eslint-disable no-unused-vars */
 // Q5 . URLify a string
 // common mistake users make when they type in an URL is to put spaces between words or letters.
 // A solution that developers can use to solve this problem is to replace any spaces with a %20.
